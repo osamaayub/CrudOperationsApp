@@ -3,6 +3,8 @@
 <hr>
 # build using HTML,CSS and Vanila JavaScript
 <hr>
-https://osamaayub.github.io/CRUD-Operation-App/ on Github Pages
+#Github Pages
+https://osamaayub.github.io/CRUD-Operation-App/ 
 <hr>
-https://crudappjavascript.netlify.app/ on Netify 
+#Netify
+https://crudappjavascript.netlify.app/ 
